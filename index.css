@@ -1,0 +1,76 @@
+.main_nav{
+    /* border: 2px solid black; */
+    width: 90%;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
+.nav1{
+    /* border: 1px solid green; */
+    width: 35%;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.side{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    color: red;
+    font-weight: 1000;
+    font-size: 20px;
+}
+
+.nav2{
+    /* border: 2px solid blue; */
+    width: 30%;
+    display: flex;
+    gap: 30px;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 16px;
+    /* justify-content: space-around; */
+}
+
+.nav2 a{
+    text-decoration: none;
+    color: #808080;
+} 
+
+/* .nav2 a:hover{
+    border: 1px solid lightgray;
+    width: 25%;
+    height: 50px;
+    border-radius: 30px;
+    background-color: lightgray;
+} */
+
+.nav3{
+    /* border: 2px solid grey; */
+    width: 22%;
+    margin-left: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.nav3_1{
+    border: 1px solid black;
+    width: 25%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 30px;
+    /* gap: 5px; */
+}
+
+.search{
+    border: 1px solid black;
+    width: 70%;
+    height: 70px;
+    margin: auto;
+    border-radius: 30px;
+}
