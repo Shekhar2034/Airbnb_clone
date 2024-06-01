@@ -759,3 +759,113 @@
     gap: 15px;
 }
 
+
+/* Wishlist styling */
+
+
+
+.part_1{
+    /* border: 1px solid lightgray; */
+    width: 62%;
+    height: 500px;
+    position: relative;
+    top: 5vh;
+    left: 2vh;
+}
+
+.short{
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#flexy{
+    position: relative;
+    right: 10px;
+    display: flex;
+    gap: 30px;
+}
+
+.forms{
+    position: relative;
+    top: 5vh;
+}
+
+.forms span{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.add{
+    display: flex;
+    position: relative;
+    top: 8vh;
+    gap: 10px;
+}
+
+.add span{
+    border: 1px solid lightgray;
+    width: 12%;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 30px;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+}
+
+.cards{
+    display: flex;
+    gap: 20px;
+}
+
+.rows{
+    /* border: 1px solid lightgray; */
+    width: 31%;
+    height: 50vh;
+    position: relative;
+    top: 15vh;
+}
+
+#image{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.span_flex{
+    display: flex;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    justify-content: space-between;
+    position: relative;
+    top: 5px;
+}
+
+#flex1{
+    display: flex;
+    gap: 5px;
+}
+
+.conty span{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    color: #717880;
+    position: relative;
+    top: 10px;
+}
+
+.part_2{
+    /* border: 1px solid black; */
+    width: 36%;
+    height: 83vh;
+    position: absolute;
+    top: 15vh;
+    right: 5px;
+}
+
+#iamg{
+    width: 100%;
+}
