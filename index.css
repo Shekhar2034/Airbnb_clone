@@ -170,6 +170,10 @@
     /* display: flex; */
 }
 
+#imag{
+    width: 25px;
+}
+
 .box_4 span{
     font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
     font-size: 12px;
@@ -307,3 +311,451 @@
     border: 1px solid black;
     cursor: pointer;
 }
+
+
+/* Personal info styling */
+
+
+
+.section_1{
+    /* border: 1px solid lightgray; */
+    height: 100vh;
+    margin: 5vh 0 0 25vh;
+    width: 42%;
+}
+
+.acc{
+    /* border: 1px solid black; */
+    width: 35%;
+    display: flex;
+    gap: 15px;
+    margin-left: 20px;
+}
+
+.acc span{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    /* font-weight: 600; */
+    font-size: 15px;
+}
+
+.perinf{
+    /* border: 1px solid black; */
+    margin: 15px 0 0 20px;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 30px;
+    color:rgb(72, 72, 72);
+    font-weight: 600;
+}
+
+.sec_1{
+    /* border: 1px solid black; */
+    margin-top: 50px;
+    height: 80vh;
+}
+
+.boxs_1{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(34, 34, 34);
+}
+
+.boxs_1 span{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 16px;
+    color:rgb(54, 54, 54);
+}
+
+#box{
+    position: relative;
+    top: 3px;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    color:rgb(92, 91, 91);
+    
+}
+
+#edit{
+    position: relative;
+    top: 8px;
+    text-decoration: underline;
+    cursor: pointer;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.line{
+    border: 1px solid lightgray;
+    position: relative;
+    top: 20px;
+}
+
+.boxs_2{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(34, 34, 34);
+    position: relative;
+    top: 35px;
+}
+
+.boxs_2 span{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 16px;
+    color:rgb(54, 54, 54);
+}
+
+#boxe{
+    position: relative;
+    top: 3px;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    color:rgb(92, 91, 91);
+    
+}
+
+#edit_1{
+    position: relative;
+    top: 8px;
+    text-decoration: underline;
+    cursor: pointer;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.line_1{
+    border: 1px solid lightgray;
+    position: relative;
+    top: 55px;
+}
+
+.boxs_3{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(34, 34, 34);
+    position: relative;
+    top: 11vh;
+}
+
+.boxs_3 span{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 16px;
+    color:rgb(54, 54, 54);
+}
+
+#boxe1{
+    position: relative;
+    top: 3px;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    color:rgb(92, 91, 91);
+}
+
+#edit_2{
+    position: relative;
+    top: 8px;
+    text-decoration: underline;
+    cursor: pointer;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.line_2{
+    border: 1px solid lightgray;
+    position: relative;
+    top: 14vh;
+}
+
+/*  */
+
+.boxs_4{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(34, 34, 34);
+    position: relative;
+    top: 16vh;
+}
+
+.boxs_4 span{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 16px;
+    color:rgb(54, 54, 54);
+}
+
+#boxe2{
+    position: relative;
+    top: 3px;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    color:rgb(92, 91, 91);
+    
+}
+
+#edit_3{
+    position: relative;
+    top: 8px;
+    text-decoration: underline;
+    cursor: pointer;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.line_3{
+    border: 1px solid lightgray;
+    position: relative;
+    top: 20vh;
+}
+
+/*  */
+.boxs_5{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(34, 34, 34);
+    position: relative;
+    top: 22vh;
+}
+
+.boxs_5 span{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 16px;
+    color:rgb(54, 54, 54);
+}
+
+#boxe3{
+    position: relative;
+    top: 3px;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    color:rgb(92, 91, 91);
+    
+}
+
+#edit_4{
+    position: relative;
+    top: 8px;
+    text-decoration: underline;
+    cursor: pointer;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.line_4{
+    border: 1px solid lightgray;
+    position: relative;
+    top: 27vh;
+}
+/*  */
+
+.boxs_6{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(34, 34, 34);
+    position: relative;
+    top: 29vh;
+}
+
+.boxs_6 span{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 16px;
+    color:rgb(54, 54, 54);
+}
+
+#boxe4{
+    position: relative;
+    top: 3px;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    color:rgb(92, 91, 91);
+    
+}
+
+#edit_5{
+    position: relative;
+    top: 8px;
+    text-decoration: underline;
+    cursor: pointer;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.line_5{
+    border: 1px solid lightgray;
+    position: relative;
+    top: 34vh;
+}
+/*  */
+
+.boxs_7{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(34, 34, 34);
+    position: relative;
+    top: 36vh;
+}
+
+.boxs_7 span{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 16px;
+    color:rgb(54, 54, 54);
+}
+
+#boxe5{
+    position: relative;
+    top: 3px;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    color:rgb(92, 91, 91);
+    
+}
+
+#edit_6{
+    position: relative;
+    top: 8px;
+    text-decoration: underline;
+    cursor: pointer;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.line_6{
+    border: 1px solid lightgray;
+    position: relative;
+    top: 40vh;
+}
+
+.section_2 {
+    border: 1px solid black;
+    height: 100vh;
+    width: 23%;
+    position: absolute;
+    top: 32vh;
+    margin: 0 50px 0 55rem;
+    border-radius: 20px;
+}
+
+.icon{
+    position: relative;
+    top: 5vh;
+    left: 3vh;
+}
+
+.section_2 div span{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    position: relative;
+    top: 8vh;
+    left: 3vh;
+}
+
+#spam{
+    color:rgb(92, 91, 91);
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    position: relative;
+    top: 12vh;
+}
+
+.border_line{
+    border: 1px solid lightgray;
+    width: 90%;
+    margin: auto;
+    position: relative;
+    top: 17vh;
+}
+
+.para_2{
+    position: relative;
+    top: 18vh;
+}
+
+.para_3{
+    position: relative;
+    top: 35vh;
+}
+
+.footer{
+    border: 1px solid #f7f7f7;
+    width: 100%;
+    position: relative;
+    top: 25vh;
+    height: 50vh;
+    background-color: #f7f7f7;
+}
+
+.under_footer{
+    /* border: 1px solid black;  */
+    width: 80%;
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 3vh;
+}
+
+.under_footer ul li{
+    list-style-type: none;
+    padding: 5px;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    color: #717880;
+    font-weight: 400;
+}
+
+.foot_line{
+    border: 1px solid lightgray;
+    width: 75%;
+    position: relative;
+    left: 25vh;
+    top: 8vh;
+}
+
+.lst_foot{
+    /* border: 1px solid black; */
+    position: relative;
+    top: 10vh;
+    width: 75%;
+    margin-left: 25vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lst_foot span{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 14px;
+}
+
+.link{
+    /* border: 1px solid black; */
+    width: 25%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#min_link2{
+    /* border: 1px solid blue; */
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
